@@ -1,12 +1,3 @@
-# Smart Attendance System for Students
-
-**Author:** Fatouma Chirfi Haidara  
-**Degree:** BSc Honours — School of Computing, Engineering and Technology  
-**University:** Robert Gordon University, Aberdeen  
-**Supervisor:** Dr. Eyad Elyan  
-**Date:** April 2026
-
----
 
 ## Overview
 
